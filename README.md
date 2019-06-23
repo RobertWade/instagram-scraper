@@ -17,7 +17,7 @@ or
 npm install
 ```
 
-##Usage
+## Usage
 
 In the Terminal enter the following
 
