@@ -3,12 +3,16 @@ Nodejs Terminal Instagram Scraper for scraping Followers, Followings and Profile
 
 
 ## Project setup
+
+Open the terminal and change the directory
 ```
 cd instagram-scraper
 ```
 
+Install the node modules with the following command
+
 ```
-yarn install
+yarn
 ```
 
 or
@@ -24,6 +28,8 @@ In the Terminal enter the following
 ```
 node index.js
 ```
+
+Then you need to enter a Instagram username
 
 
 ## Example
