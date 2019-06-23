@@ -24,3 +24,8 @@ In the Terminal enter the following
 ```
 node index.js
 ```
+
+
+## Example
+
+![](images/usage.png)
